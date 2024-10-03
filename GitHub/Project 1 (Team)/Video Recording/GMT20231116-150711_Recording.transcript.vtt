@@ -1,0 +1,202 @@
+WEBVTT
+
+1
+00:00:04.490 --> 00:00:08.570
+Eric Nixon: Here is our report of the results of your Airbnb
+
+2
+00:00:08.610 --> 00:00:10.340
+Eric Nixon: investment analysis.
+
+3
+00:00:12.780 --> 00:00:15.190
+Eric Nixon: So we'll be going over the Intro.
+
+4
+00:00:15.330 --> 00:00:28.579
+Eric Nixon: the data and how the numbers add up, really excited to show our interactive dashboard with what of scenarios, and then we will come to a conclusion with actual result and
+
+5
+00:00:28.660 --> 00:00:29.850
+Eric Nixon: the next steps.
+
+6
+00:00:31.810 --> 00:00:36.270
+Eric Nixon: So I'll be going over the goals context we're working in. And the most important factors
+
+7
+00:00:37.880 --> 00:00:39.609
+Eric Nixon: we already know that
+
+8
+00:00:40.210 --> 00:00:48.069
+Eric Nixon: to have a vacation getaway for 4 weeks. That leaves us with 336 days available for for rental income.
+
+9
+00:00:48.140 --> 00:00:53.999
+Eric Nixon: And we're working within your goals regarding location being close to your city of Resident Tampa Bay.
+
+10
+00:00:57.630 --> 00:01:02.880
+Eric Nixon: The location, we decided is Fort Lauderdale, and you can see the neighborhoods we have highlighted
+
+11
+00:01:02.930 --> 00:01:10.680
+Eric Nixon: are the ones we think are particularly suitable for this, which are Fort Lauderdale, Lauderdale at Sea and Oakland Park.
+
+12
+00:01:13.050 --> 00:01:19.629
+Eric Nixon: Kpis are going to be the price per day. The price of the Airbnb rental and the occupancy rate.
+
+13
+00:01:22.140 --> 00:01:33.029
+Eric Nixon: The most important question is, what price per day we would need to set to break. Even we know that the revenue is going to be the price of the R. And B times the occupancy rate.
+
+14
+00:01:33.200 --> 00:01:45.690
+Eric Nixon: So the revenue minus the mortgage payments or expenses has to be greater or equal to 0. Another important question is, what other set of conditions will lead to a higher chance of bookings and or higher revenue.
+
+15
+00:01:47.970 --> 00:01:55.189
+Eric Nixon: We are working with the hypothesis to use average price per day as a price. That's that.
+
+16
+00:01:55.200 --> 00:02:00.370
+Eric Nixon: because a measure of central tendency is what most people have been doing with their business. It's more tribe and true.
+
+17
+00:02:02.440 --> 00:02:07.930
+Eric Nixon: So we're going to show our different variables effect price per day with a fixed house condo price
+
+18
+00:02:08.120 --> 00:02:22.379
+Eric Nixon: determine the price to set based off these calculation, and then we will present nice Hop House options. Which is the fun part once we get there. That, you can decide upon that are all within these goal parameters.
+
+19
+00:02:24.400 --> 00:02:28.550
+Eric Nixon: And now Colton will take it away with the data and the interactive dashboard.
+
+20
+00:02:29.360 --> 00:02:30.580
+Colton Balvanz: Thank you, Eric.
+
+21
+00:02:30.730 --> 00:02:41.609
+Colton Balvanz: So we took a few liberties with assuming some things, we decided that within your range a $400,000 home with a 10% down payment was pretty reasonable.
+
+22
+00:02:41.780 --> 00:02:55.440
+Colton Balvanz: We figured in some interest, some insurance and tax and stuff like that. And the highlight here is that your yearly payments are just over 36,000. With that we're gonna show you guys the dashboard that we created for, you know.
+
+23
+00:02:57.140 --> 00:03:00.279
+Colton Balvanz: So here we can see that our
+
+24
+00:03:00.510 --> 00:03:05.880
+Colton Balvanz: dashboard is based on 2 bedroom homes, condos etc., from the 3 neighborhood
+
+25
+00:03:05.910 --> 00:03:07.690
+Colton Balvanz: that we picked for you guys.
+
+26
+00:03:07.870 --> 00:03:13.700
+If you can accommodate between 4 and 6 people, you can see that's kind of a sweet spot for price
+
+27
+00:03:13.800 --> 00:03:23.129
+Colton Balvanz: for for the 2 bedroom homes. So if you were to get a couple extra beds or something like a pullout couch. We think it'd be it could be a real benefit for you ladies.
+
+28
+00:03:23.200 --> 00:03:31.260
+Colton Balvanz: and additionally, down here in the bottom, right? We show you what your break-even price is for a given occupancy rates that you can adjust your prices accordingly.
+
+29
+00:03:32.080 --> 00:03:35.129
+Eric Nixon: So I'm curious. Would I be able to get
+
+30
+00:03:35.200 --> 00:03:37.420
+Eric Nixon: different? Perhaps
+
+31
+00:03:37.610 --> 00:03:40.020
+Eric Nixon: hire accommodates, or
+
+32
+00:03:40.150 --> 00:03:52.210
+Eric Nixon: Beth, if I were to adjust the average price for any of the grap alright, I mean the the neighborhood. Could you? Actually, you know, like hone in on certain neighborhoods.
+
+33
+00:03:52.770 --> 00:04:03.740
+Colton Balvanz: Sure. So if we look at Oakland Park, which is what a couple of our recommendations are, you can see that the data here does change, and your suite spots actually at 4. And you can see that reflected in the beds as well.
+
+34
+00:04:03.840 --> 00:04:12.189
+Colton Balvanz: But one thing to keep in mind is that Oakland Park by itself doesn't have nearly as many data points. So really, you should kind of look at both to make your decision.
+
+35
+00:04:13.930 --> 00:04:22.950
+Camille Robinson: That's really cool, Colton. I also have a question. Is there a way for us to know the break, even price? If our occupancy rate was higher or lower.
+
+36
+00:04:23.610 --> 00:04:33.439
+Colton Balvanz: Sure. So over here, we've created an interactive portion of this Slider so that you can determine. Oh, if you're having a really good year, your occupancy rate is 75%.
+
+37
+00:04:33.490 --> 00:04:35.729
+Colton Balvanz: You can see your break. Even price goes down.
+
+38
+00:04:35.760 --> 00:04:52.419
+Colton Balvanz: But if it's a if it's a slow year, say, it's your occupancy is 50. You see, your break. Even price goes up, and we found that the point where the break, even price is closest to the average price is rather an occupancy rate of 55%. So we think that should be your goal.
+
+39
+00:04:53.180 --> 00:05:00.829
+Colton Balvanz: With that we'll go back to the presentation. and I will hand it off to Camille for conclusions.
+
+40
+00:05:01.980 --> 00:05:13.579
+Camille Robinson: Awesome. Thank you so much, Colton, and thank you for answering those questions right? And I'm going to go over a little bit of our summary to go over what we discussed some suggestions and our next steps.
+
+41
+00:05:15.670 --> 00:05:26.160
+Camille Robinson: So what we found we found 2 homes that meet all of your requested requirements, and all of the most of the amenities also meet these requirements.
+
+42
+00:05:26.300 --> 00:05:41.779
+Camille Robinson: We found through our data analysis, that the booking price at 195, about a night would be at the 55% occupancy rate. And this would be our break even price. And this would be based on a 400,000 home.
+
+43
+00:05:41.870 --> 00:05:48.909
+Camille Robinson: We also know, based on our data that we can adjust the price according to our occupancy rate changes.
+
+44
+00:05:51.640 --> 00:06:04.070
+Camille Robinson: So we have a couple options for you. We have our cool condo and our pink paradise. Both of these homes meet our requirements, and the hardest decision is for you to pick one
+
+45
+00:06:07.140 --> 00:06:14.750
+Camille Robinson: alright, and going forward for our next steps, we suggest that you contact whichever property you think suits your personality the best.
+
+46
+00:06:14.760 --> 00:06:31.189
+Camille Robinson: We also suggest that you contact us quarterly to review your internal and external data, since we will be able to adapt and adjust to real time data fluctuations. So any environmental changes or economic changes within Florida.
+
+47
+00:06:31.280 --> 00:06:39.390
+Camille Robinson: We also suggest that you contact us. If you'd like to go further into analysis for any cleaning expenses or other kind of expenses
+
+48
+00:06:42.130 --> 00:06:53.930
+Camille Robinson: awesome, and that wraps up our presentation. Thank you. Guys so much for your time and attention. Again, we are the sunbox. Please contact us for any follow-up questions. and we will see you on the sunny side
+
+49
+00:06:55.610 --> 00:06:59.360
+Camille Robinson: and our links or our resources if you'd like to check them out.
+
+50
+00:06:59.550 --> 00:07:00.040
+Camille Robinson: Thank you.
+
